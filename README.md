@@ -1,5 +1,5 @@
-# Py_edu_Project
-Extracting and Visualizing Stock Data
+# Extracting and Visualizing Stock Data
+Educational project
 
 Description
 
@@ -7,3 +7,5 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 therefore individuals can make correct decisions based on the data.
 
 In this assignment, we will extract some stock data and visualize it as a graph.
+
+Python programming.
